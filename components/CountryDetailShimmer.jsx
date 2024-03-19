@@ -1,5 +1,3 @@
-import React from "react";
-
 import "./CountryDetailShimmer.css";
 
 export default function CountryDetailShimmer() {
